@@ -129,7 +129,7 @@ ${prefix}deletecolors <number> / لحذف الالوان
    `,`
         ***__Music Commands - اوامر الاغاني__***
 **
-${prefixplay / لتشغيل أغنية برآبط أو بأسم
+${prefix}play / لتشغيل أغنية برآبط أو بأسم
 ${prefix}skip / لتجآوز الأغنية الحآلية
 ${prefix}pause / إيقآف الأغنية مؤقتا
 ${prefix}resume / لموآصلة الإغنية بعد إيقآفهآ مؤقتا
